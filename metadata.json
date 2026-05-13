@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bioser L-Glutamina | Premium Health",
+  "description": "Página de aterrizaje premium para L-Glutamina Micronizada. Ciencia, recuperación y salud intestinal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
